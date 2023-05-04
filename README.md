@@ -1,4 +1,4 @@
 # component-library
 
 ## Zachary Thomas Sexton
-# Vue component library
+### Vue component library
